@@ -100,6 +100,3 @@ O modelo apresenta excelente desempenho, mas sua eficácia está diretamente lig
 
 ---
 
-## 👨‍💻 Autor
-
-Projeto desenvolvido para fins educacionais (EBAC) com foco em prática de ciência de dados aplicada.
